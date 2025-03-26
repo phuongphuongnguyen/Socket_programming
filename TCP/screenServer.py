@@ -14,7 +14,7 @@ def update_gui(input_text, output_text):
 
 # Create Server GUI
 screen = tk.Tk()
-screen.title("Server")
+screen.title("TCPServer")
 screen.geometry('600x150')
 screen.configure(bg=BG_COLOR)
 

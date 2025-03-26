@@ -3,7 +3,7 @@ from TCPclient import requestClient
 
 # Create main screen
 screen = tk.Tk()
-screen.title("Client")
+screen.title("TCPClient")
 screen.geometry('600x300')
 screen.configure(bg="#f8c8dc")
 
