@@ -1,6 +1,6 @@
 import tkinter as tk
 import threading
-from server_app import runServer
+from UDPserver import runServer
 
 # Custom Styles
 BG_COLOR = "#f8c8dc"  

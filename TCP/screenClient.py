@@ -1,5 +1,5 @@
 import tkinter as tk
-from client import requestClient
+from TCPclient import requestClient
 
 # Create main screen
 screen = tk.Tk()
